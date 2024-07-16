@@ -8,11 +8,19 @@ class Registrant
         @license_data = license_data
     end
 
-    # def 
-    
+    # def name
+    #    @name = name
     # end
 
-    # def
-    
+    # def age
+    #    @age = age
+    # end
+
+    # def permit
+    #    @permit = permit
+    # end
+
+    # def license_data
+    #    @license_data = license_data
     # end
 end
